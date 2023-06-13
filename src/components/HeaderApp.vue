@@ -5,7 +5,7 @@
       <v-img class="logo" src="@/assets/img/logo.svg"></v-img>
     </router-link>
   <nav class="nav">
-    <router-link to="/about">
+    <router-link to="/archive">
       <v-btn class="btn" icon>
         <div class="nav-icon icon-create"></div>
       </v-btn>
